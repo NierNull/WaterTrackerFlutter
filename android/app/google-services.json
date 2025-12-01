@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1045727355485",
+    "project_id": "watertracker-3de4a",
+    "storage_bucket": "watertracker-3de4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045727355485:android:e379af2078a3f7d114a3b4",
+        "android_client_info": {
+          "package_name": "com.example.water_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045727355485-ufc80qd1ivp6h8g37l13qc8n2sao9njr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.water_tracker",
+            "certificate_hash": "a6871f9775c36078102f191fff68eacb5e38eec9"
+          }
+        },
+        {
+          "client_id": "1045727355485-jvh97bghfbna9m1urjbimkpov6dr2gd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxBKbrNkLVZKKpZ7yNvq_tyFZd1oy6DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045727355485-jvh97bghfbna9m1urjbimkpov6dr2gd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045727355485-0h65vh44vv5vta0j84unuml2lggee7u3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
